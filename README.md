@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alaa304
-- 👀 I’m interested in programming
+👀 I am interested in business management
 - 🌱 I’m currently learning Backend .NET
 - 💞️ I am looking for cooperation in developing programming thought
 - 📫 How to reach me:
