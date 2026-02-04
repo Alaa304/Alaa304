@@ -1,11 +1,11 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Alaa+Mohamed;Backend+.NET+Developer;Problem+Solver;Love+Coding+%F0%9F%92%99" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Alaa+%F0%9F%92%99" />
 </h1>
 
 <h2 align="center">Alaa304</h2>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abdelrahmanalaa360&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Alaa304&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🛠 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,html,css,js,python" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,html,js,python,postman,swagger,c++,c,java" />
 </p>
 
 ---
