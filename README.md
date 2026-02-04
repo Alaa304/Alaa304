@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alaa Mohamed</h1>
+<h3 align="center">Backend Developer | .NET Developer</h3>
 
-<!--
-**Alaa304/Alaa304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♀️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student  
+- 💻 Backend Developer (.NET)  
+- 🚀 Learning Clean Architecture & APIs  
+- ❤️ Love problem solving  
+
+---
+
+## 🛠 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,html,css,js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME)
+
+---
+
+## 📫 Contact Me
+
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- Email: yourmail@gmail.com
