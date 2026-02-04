@@ -99,21 +99,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alaa304&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Alaa304&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
