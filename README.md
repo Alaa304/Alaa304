@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Alaa+%F0%9F%92%99" />
 </h1>
 
-<h2 align="center">Alaa304</h2>
+<h2 align="center">Software Engineer</h2>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Alaa304&label=Profile%20views&color=0e75b6&style=flat" />
@@ -11,8 +11,9 @@
 ---
 
 ## 🙋‍♀️ About Me
-
-- 📝 I regularly write articles on my **LinkedIn profile**  
+- 💻 Passionate about **software development** and problem-solving  
+- 🚀 Interested in **entrepreneurship and building tech-driven products**  
+- 📝 I regularly write articles on my [LinkedIn profile](https://www.linkedin.com/in/alaa20mohamed/)
 - 📫 How to reach me **alaa99en@gmail.com**  
 - ⚡ A fact about me **I love coding ❤️**  
 
