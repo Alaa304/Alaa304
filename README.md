@@ -125,15 +125,15 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com">
-<img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/alaa20mohamed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcWptuKe9RfaIh1MiGysMIA%3D%3D)" />
-</a>
+  <a href="https://www.linkedin.com/in/alaa20mohamed/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="mailto:alaa99en@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+  <a href="mailto:alaa99en@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="https://github.com/Alaa304">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://github.com/Alaa304">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
