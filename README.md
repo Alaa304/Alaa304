@@ -5,13 +5,13 @@
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer" />
-</h2>ئ
+</h2>
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/12PA1eI8FBqEBa/giphy.gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif"/>
 
 - 💻 Passionate about **Software Development & Problem Solving**
 - 🚀 Interested in **Entrepreneurship & Tech Startups**
