@@ -24,21 +24,20 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,js,dotnet,python,git" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,js,dotnet,python,git,postman" />
   <br/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="48" height="48" />
 </p>
 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaa304&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaa304&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
