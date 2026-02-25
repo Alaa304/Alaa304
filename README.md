@@ -1,17 +1,17 @@
 <!-- HEADER WAVE -->
 <p align="center">
-<img align="right" height="150" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=200&section=header&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h2 align="center">
-<img align="right" height="150" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer" />
 </h2>ئ
 
 ---
 
 ## 👩‍💻 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
 
 - 💻 Passionate about **Software Development & Problem Solving**
 - 🚀 Interested in **Entrepreneurship & Tech Startups**
@@ -60,3 +60,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:58A6FF&height=120&section=footer"/>
 </p>
+شيل صورة المبرمج المتحرك  اللي شغال وبدلها بحاجة كرياتف اكتر ةبتحمل معنى عميق ف البرمجة
