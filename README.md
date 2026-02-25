@@ -1,6 +1,6 @@
 <!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=200&section=header&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<img align="right" height="150" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
 </p>
 
 <h2 align="center">
