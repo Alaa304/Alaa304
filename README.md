@@ -11,7 +11,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="150" src="https://cdn.openai.com/images/demos/a_gif_in_this_digital_illustration_shows_a_silhoue.gif" alt="Cat looking at digital night sky with glowing code"/>
+<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Animated cat programming file"/>
+
 
 - 💻 Passionate about **Software Development & Problem Solving**
 - 🚀 Interested in **Entrepreneurship & Tech Startups**
@@ -60,4 +61,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:58A6FF&height=120&section=footer"/>
 </p>
-شيل صورة المبرمج المتحرك  اللي شغال وبدلها بحاجة كرياتف اكتر ةبتحمل معنى عميق ف البرمجة
