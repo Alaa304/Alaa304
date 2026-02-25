@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/l4pTdcif2g4RzQZQA/giphy.gif"/>
+<img align="right" height="150" src="https://cdn.openai.com/images/demos/a_gif_in_this_digital_illustration_shows_a_silhoue.gif" alt="Cat looking at digital night sky with glowing code"/>
 
 - 💻 Passionate about **Software Development & Problem Solving**
 - 🚀 Interested in **Entrepreneurship & Tech Startups**
