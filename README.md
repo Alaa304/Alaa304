@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/xT0BKmq6sU8VQpUQ1K/giphy.gif"/>
 
 - 💻 Passionate about **Software Development & Problem Solving**
 - 🚀 Interested in **Entrepreneurship & Tech Startups**
