@@ -1,119 +1,61 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Alaa+%F0%9F%92%99" />
-</h1>
+<!-- HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=200&section=header&text=Alaa%20Mohamed&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-<h2 align="center">Software Engineer</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Problem+Solver;Entrepreneurial+Mindset;Building+Tech+Driven+Products" />
+</h2>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 💻 Passionate about **Software Development & Problem Solving**
+- 🚀 Interested in **Entrepreneurship & Tech Startups**
+- 📝 Writing articles on **LinkedIn**
+- 📫 Reach me at: **alaa99en@gmail.com**
+- ⚡ Fun fact: **I love coding ❤️**
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Alaa304&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,js,dotnet,python,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
-- 💻 Passionate about **software development** and problem-solving  
-- 🚀 Interested in **entrepreneurship and building tech-driven products**  
-- 📝 I regularly write articles on my [LinkedIn profile](https://www.linkedin.com/in/alaa20mohamed/)
-- 📫 How to reach me **alaa99en@gmail.com**  
-- ⚡ A fact about me **I love coding ❤️**  
+## 📊 GitHub Stats
 
----
-
-<h2 align="left">🛠️ Languages and Tools:</h2>
-
-<p align="left">
-
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-         alt="C" width="40" height="40"/>
-  </a>
-
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-         alt="C++" width="40" height="40"/>
-  </a>
-
-  <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-         alt="C#" width="40" height="40"/>
-  </a>
-
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="Java" width="40" height="40"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="HTML" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"
-         alt=".NET" width="40" height="40"/>
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-         alt="SQL Server" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-         alt="Git" width="40" height="40"/>
-  </a>
-
-  <!-- Postman -->
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-         alt="Postman" width="40" height="40"/>
-  </a>
-
-  <!-- Swagger -->
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"
-         alt="Swagger" width="40" height="40"/>
-  </a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaa304&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alaa304&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-
----
-
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alaa20mohamed/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/alaa20mohamed/">
+    <img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:alaa99en@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-6f42c1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Alaa304">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:58A6FF&height=120&section=footer"/>
 </p>
