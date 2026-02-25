@@ -1,6 +1,6 @@
 <!-- HEADER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=200&section=header&text=Alaa%20Mohamed&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6f42c1&height=200&section=header&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h2 align="center">
