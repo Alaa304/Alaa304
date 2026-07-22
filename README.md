@@ -24,7 +24,6 @@ alt="Developer Animation"/>
 - 🗄️ Experienced with SQL Server & Entity Framework Core
 - 🔐 Interested in Clean Architecture & Authentication
 - 🚀 Passionate about SaaS Products & Entrepreneurship
-- 🌍 Looking for Remote Opportunities in Europe
 - 📫 Reach me at **alaa99en@gmail.com**
 
 ---
