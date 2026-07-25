@@ -23,7 +23,7 @@ alt="Developer Animation"/>
 - ⚙️ Building scalable ASP.NET Core Web APIs
 - 🗄️ Experienced with SQL Server & Entity Framework Core
 - 🔐 Interested in Clean Architecture & Authentication
-- 🚀 Passionate about SaaS Products & Entrepreneurship
+- 🚀 Passionate about  Entrepreneurship
 - 📫 Reach me at **alaa99en@gmail.com**
 
 ---
